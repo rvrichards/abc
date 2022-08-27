@@ -1,0 +1,101 @@
+/*  styles */
+h2 {text-align: center; }
+ul {text-align: left; }
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+
+#columnLeft {
+    width: 37%;
+    float:left;
+    background: white;
+    padding-bottom: 1em;
+    text-align: justify;
+}
+#columnMiddle {
+    width:50%;
+    float:left;
+    background: white;
+    padding-bottom: 1em;
+}
+#columnRight {
+    width: 13%;
+    float: left;
+    background: white;
+    padding-bottom: 1em;
+}
+
+.list {
+
+}
+
+.slider {
+    width: 500px;
+    height: 300px;
+    background-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    overflow: hidden;
+}
+.image-container {
+    width: 13000px;
+    background-color: pink;
+    height: 300px;
+    clear: both;
+    position: relative;
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+    transition: left 2s;
+}
+.slide {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+.buttons {
+    position: relative;
+    top: -20px;
+}
+.buttons a {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    border-radius: 50px;
+    background-color: lightgreen;
+}
+
+#slide-1:target ~ .image-container {left: 0px;}
+#slide-1a:target ~ .image-container {left: 250px;}
+#slide-2:target ~ .image-container {left: -500px;}
+#slide-3:target ~ .image-container {left: -1000px;}
+#slide-4:target ~ .image-container {left: -1500px;}
+#slide-5:target ~ .image-container {left: -2000px;}
+#slide-6:target ~ .image-container {left: -2500px;}
+#slide-7:target ~ .image-container {left: -3000px;}
+#slide-8:target ~ .image-container {left: -3500px;}
+#slide-9:target ~ .image-container {left: -4000px;}
+#slide-10:target ~ .image-container {left: -4500px;}
+#slide-11:target ~ .image-container {left: -5000px;}
+#slide-12:target ~ .image-container {left: -5500px;}
+#slide-13:target ~ .image-container {left: -6000px;}
+#slide-14:target ~ .image-container {left: -6500px;}
+#slide-15:target ~ .image-container {left: -7000px;}
+#slide-16:target ~ .image-container {left: -7500px;}
+#slide-17:target ~ .image-container {left: -8000px;}
+#slide-18:target ~ .image-container {left: -8500px;}
+#slide-19:target ~ .image-container {left: -9000px;}
+#slide-20:target ~ .image-container {left: -9500px;}
+#slide-21:target ~ .image-container {left: -10000px;}
+#slide-22:target ~ .image-container {left: -10500px;}
+#slide-23:target ~ .image-container {left: -11000px;}
+#slide-24:target ~ .image-container {left: -11500px;}
+#slide-25:target ~ .image-container {left: -12000px;}
+#slide-26:target ~ .image-container {left: -12500px;}
+
+
