@@ -15,4 +15,7 @@ I present to you:
 - Onychorhynchus coronatus 
 - https://en.wikipedia.org/wiki/Amazonian_royal_flycatcher
 
+
+Added an About page as well as an revisions page - to keep track of changes.
+
 ![Sample image](/images/AmazonRoyal_1841.jpg)
