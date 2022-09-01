@@ -84,7 +84,6 @@ li {  margin: 13px; }
 }
 
 #slide-1:target ~ .image-container {left: 0px;}
-#slide-1a:target ~ .image-container {left: 250px;}
 #slide-2:target ~ .image-container {left: -500px;}
 #slide-3:target ~ .image-container {left: -1000px;}
 #slide-4:target ~ .image-container {left: -1500px;}
