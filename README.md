@@ -7,13 +7,15 @@ The idea is that there are many ABC books for kids that have the usual suspects 
 
 There will also be a part to explain taxonomy - binomial nomenclature.
 
-I am thinking the target audience is from 3-10, but since this is my first book, and a kids one at that, theat there is much to learn.
+I am thinking the target audience is from 3-10, but since this is my first book, and a kids one at that, that there is much to learn.
 
 I present to you: 
 
 - Amazonian Royal fly catcher
 - Onychorhynchus coronatus 
 - https://en.wikipedia.org/wiki/Amazonian_royal_flycatcher
+
+I am about finished gathering animals, at least 2 per letter. Now will be reviewing them with friends, and deciding on the content. Next I will be picking a strategy for illustration and then looking for illustrators. Will also now be deciding and learning some typesetting software. 
 
 
 Added an About page as well as an revisions page - to keep track of changes.
